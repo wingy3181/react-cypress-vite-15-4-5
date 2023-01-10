@@ -5,7 +5,8 @@ import viteTsConfigPaths from 'vite-tsconfig-paths';
 export default defineConfig({
   server: {
     port: 4200,
-    host: 'localhost',
+    // Commented out to reproduce issue in https://github.com/nrwl/nx/issues/13944
+    // host: 'localhost',
   },
 
   plugins: [
