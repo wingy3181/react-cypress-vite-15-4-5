@@ -51,6 +51,20 @@
     tmp "~0.2.1"
     tslib "^2.3.0"
 
+"@nrwl/react@^15.4.5":
+  version "15.4.5"
+  resolved "https://registry.yarnpkg.com/@nrwl/react/-/react-15.4.5.tgz#b83c7c818db6fabfa0a443f892f994dd5394514b"
+  integrity sha512-mWfGzP2jAWz2wXIVS0fIHgDD+XAobcSgcXZQg2pt80PPhO65V2DNNHl0I+u8ebAsjE6Tipl04yxU5SyDRxiDbg==
+  dependencies:
+    "@nrwl/devkit" "15.4.5"
+    "@nrwl/linter" "15.4.5"
+    "@nrwl/workspace" "15.4.5"
+    "@phenomnomnominal/tsquery" "4.1.1"
+    chalk "4.1.0"
+    enquirer "~2.3.6"
+    minimatch "3.0.5"
+    semver "7.3.4"
+
 "@nrwl/tao@15.4.5":
   version "15.4.5"
   resolved "https://registry.yarnpkg.com/@nrwl/tao/-/tao-15.4.5.tgz#d07f6d06cecb6acb84259e0654cfc59fcc5edd53"
